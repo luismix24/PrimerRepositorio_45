@@ -1,4 +1,4 @@
-# **Primer Repositorio 45**
+# Primer Repositorio 45
 
 ## Repositorio de prueba como primer proyecto
 
@@ -10,3 +10,8 @@ Tareas:
 4. Subir los cambios
 ` git push origin main `
 5. Verificar los cambios
+
+---
+> En caso de desear descargar cambios utiliza:
+` git pull origin`
+![Image](https://github.com/fluidicon.png)
